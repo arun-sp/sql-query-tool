@@ -1,2 +1,3 @@
-# sql-query-tool
-Web tool to query MySQL &amp; PostgreSQL
+# Sql Query Tool
+
+A mini web tool that can query data from MySQL & PostgreSQL built using Flask (Python).
